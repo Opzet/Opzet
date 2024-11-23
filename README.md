@@ -1,11 +1,19 @@
 # Full Stack C# DevOps and Industrial Design Engineer
 #### Guru in Electronics, Mechanical, and Software Engineering
 
-Looking for like-minded coders. Located: Perth WA | [david@planworkdone.com](mailto:david@planworkdone.com)
+Looking to help innovators and coders. Located Perth WA
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=opzet&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)
 
 💬 Ask me about C#, OpenCV, Product Development, Embedded Systems, Mechatronics, Robotics, CNC Machining
+
+Contribute to several FOSS projects
+- ORM ( Entityframework Visual Designer)
+- ORM Provider ( EntityFileSystem)
+- Full stack GIS 
+- and many more
+
+Done kickstater 
 
 ---
 
@@ -24,6 +32,8 @@ Looking for like-minded coders. Located: Perth WA | [david@planworkdone.com](mai
 ---
 
 ## Areas of Expertise: Software Engineering and Business Automation
+
+There is nothing I cannot do, its just what I should be doing..
 
 ### Programming Languages
 - C#
@@ -77,6 +87,8 @@ Looking for like-minded coders. Located: Perth WA | [david@planworkdone.com](mai
 ---
 
 ## Previous Areas of Expertise: Industrial Design
+
+Worked overseas with majors like Nokia, Caterpiller etc
 
 - Innovation and Commercialization
 - Product Virtualization - 3D Modeling and Animation
