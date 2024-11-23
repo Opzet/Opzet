@@ -7,13 +7,19 @@ Looking to help innovators and coders. Located Perth WA
 
 💬 Ask me about C#, OpenCV, Product Development, Embedded Systems, Mechatronics, Robotics, CNC Machining
 
+---
+
+ ## 📊 Github Stats
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opzet&layout=compact&hide=css,html&langs_count=10&theme=midnight-purple&cache_seconds=86400&card_width=1000)](https://github.com/opzet/github-readme-stats) 
+
+
+---
+
 Contribute to several FOSS projects
 - ORM ( Entityframework Visual Designer)
 - ORM Provider ( EntityFileSystem)
 - Full stack GIS 
 - and many more
-
-Done kickstater 
 
 ---
 
@@ -88,13 +94,16 @@ There is nothing I cannot do, its just what I should be doing..
 
 ## Previous Areas of Expertise: Industrial Design
 
-Worked overseas with majors like Nokia, Caterpiller etc
+Overseas experience with majors like Nokia, Caterpiller etc
 
-- Innovation and Commercialization
-- Product Virtualization - 3D Modeling and Animation
-- Project Tracking
-- Prototype Development - In-house circuit board and enclosure manufacture
+Preferred vendor for Mining Majors innovation projects - Woodside, Rio Tinto, etc
+
+- Product Virtualization - 3D Modeling, Animation & Prototype
+- Project Tracking - Gantt - Kanban etc
+- Prototype Development - In-house circuit board and enclosure manufacture e.g https://www.roboticsevolved.com/ |
 - Commercialization Systems - Experience with manufacturing, distribution & eCommerce solutions
+- Understand Crowd Funding  [Kickstater - RoboticsEvolved](https://www.kickstarter.com/projects/336056728/ctrl-the-robot-a-modern-industrial-robot-for-the-d)
+- Understand Innovation and Commercialization and the Valley of Death
 
 ### Electronics [Guru Competency]
 - Schematic design – Altium Designer
