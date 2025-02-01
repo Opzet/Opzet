@@ -13,6 +13,7 @@ Looking to help innovators and coders. Located Perth WA
 
 ![Opzet GitHub stats](https://github-readme-stats.vercel.app/api?username=opzet&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opzet&layout=donut)](https://github.com/opzet/github-readme-stats)
 
+![image](https://github.com/user-attachments/assets/c200d534-d362-4d2d-94d4-1328d9d2a2c0)
 
 ---
 
