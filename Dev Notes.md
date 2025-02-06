@@ -1,0 +1,22 @@
+BaseCamp - Guides
+========
+
+ - [What’s new](https://basecamp.com/new) 
+ - [Books we’ve written](https://basecamp.com/books) 
+ - [Where we came from](https://basecamp.com/about) 
+ - [How we communicate](https://basecamp.com/guides/how-we-communicate) 
+ - [How we make decisions](https://basecamp.com/guides/how-we-make-decisions) 
+ - [Why we choose profit](https://basecamp.com/guides/why-we-choose-profit) 
+ - [Group chat problems](https://basecamp.com/guides/group-chat-problems) 
+ - [Seven shipping principles](https://basecamp.com/guides/seven-shipping-principles) 
+ - [Leaving the Cloud](https://basecamp.com/cloud-exit) 
+ - [Night & day](https://basecamp.com/before-and-after) 
+ - [JUST LET ME DO MY JOB](https://basecamp.com/justletmedomyjob) 
+ - [Come small, come all](https://basecamp.com/small) 
+ - [Kill overkill](https://basecamp.com/overkill) 
+ - [We stand with the underdogs](https://basecamp.com/underdogs) 
+ - [Hill Charts](https://basecamp.com/hill-charts) 
+ - [Basecamp is for everyone](https://basecamp.com/accessibility) 
+ - [Integrations](https://basecamp.com/integrations) 
+ - [Basecamp community](https://basecamp.com/community) 
+ - [Employee handbook](https://basecamp.com/handbook)
